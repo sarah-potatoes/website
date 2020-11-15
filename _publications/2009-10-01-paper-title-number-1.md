@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Absolute plate motion of Africa around Hawaii-Emperor bend time"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/paper1
+abstract: 'Numerous regional plate reorganizations and the coeval ages of the Hawaiian Emperor bend (HEB) and Louisville bend of 50–47 Ma have been interpreted as a possible global tectonic plate reorganization at ∼chron 21 (47.9 Ma). Yet for a truly global event we would expect a contemporaneous change in Africa absolute plate motion (APM) reflected by physical evidence distributed on the Africa Plate. This evidence has been postulated to take the form of the Réunion-Mascarene bend which exhibits many HEB-like features, such as a large angular change close to ∼chron 21. However, the Réunion hotspot trail has recently been interpreted as a sequence of continental fragments with incidental hotspot volcanism. Here we show that the alternative Réunion-Mascarene Plateau trail can also satisfy the age progressions and geometry of other hotspot trails on the Africa Plate. The implied motion, suggesting a pivoting of Africa from 67 to 50 Ma, could explain the apparent bifurcation of the Tristan hotspot chain, the age reversals seen along the Walvis Ridge, the sharp curve of the Canary trail, and the diffuse nature of the St. Helena chain. To test this hypothesis further we made a new Africa APM model that extends back to ∼80 Ma using a modified version of the Hybrid Polygonal Finite Rotation Method. This method uses seamount chains and their associated hotspots as geometric constraints for the model, and seamount age dates to determine APM through time. While this model successfully explains many of the volcanic features, it implies an unrealistically fast global lithospheric net rotation, as well as improbable APM trajectories for many other plates, including the Americas, Eurasia and Australia. We contrast this speculative model with a more conventional model in which the Mascarene Plateau is excluded in favour of the Chagos-Laccadive Ridge rotated into the Africa reference frame. This second model implies more realistic net lithospheric rotation and far-field APMs, but fails to explain key details of the Atlantic Ocean volcanic chains. Both models predict a Canary plume influence beneath the Madeiras. Neither model, when projected via the global plate circuit into the Pacific, predicts any significant change in plate motion around chron 21. Consequently, Africa APM models do not appear to provide independent support for a chron 21 global reorganization.'
+venue: 'Geophysical Journal International'
+paperurl: 'https://academic.oup.com/gji/article/201/3/1743/773472'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Recommended citation: Maher, S. M., Wessel, P., Müller, R. D., Williams, S. E., & Harada, Y. (2015). "Absolute plate motion of Africa around Hawaii-Emperor bend time"
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Geophysical Journal International, Volume 201, Issue 3, June 2015, Pages 1743–1764, https://doi.org/10.1093/gji/ggv104
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
