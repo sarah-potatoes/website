@@ -6,9 +6,7 @@ abstract: 'Numerous regional plate reorganizations and the coeval ages of the Ha
 venue: 'Geophysical Journal International'
 paperurl: 'https://academic.oup.com/gji/article/201/3/1743/773472'
 ---
-Recommended citation: Maher, S. M., Wessel, P., Müller, R. D., Williams, S. E., & Harada, Y. (2015). "Absolute plate motion of Africa around Hawaii-Emperor bend time"
-
-Geophysical Journal International, Volume 201, Issue 3, June 2015, Pages 1743–1764, https://doi.org/10.1093/gji/ggv104
+Recommended citation: S. M. Maher, P. Wessel, R. D. Müller, S. E. Williams, Y. Harada, Absolute plate motion of Africa around Hawaii-Emperor bend time, Geophysical Journal International, Volume 201, Issue 3, June 2015, Pages 1743–1764, https://doi.org/10.1093/gji/ggv104
 
 
 Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
