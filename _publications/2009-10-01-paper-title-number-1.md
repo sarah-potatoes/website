@@ -3,7 +3,7 @@ title: "Absolute plate motion of Africa around Hawaii-Emperor bend time"
 collection: publications
 permalink: /publication/paper1
 excerpt: 'Revising the absolute plate motion of Africa using hotspot trail geometry and age progression on the Africa plate.'
-date: ''
+date: '2009-10-01'
 venue: 'Geophysical Journal International'
 paperurl: 'https://doi.org/10.1093/gji/ggv10'
 citation: 'S. M. Maher, P. Wessel, R. D. Müller, S. E. Williams, Y. Harada. (2015). &quot;Absolute plate motion of Africa around Hawaii-Emperor bend time.&quot; <i>Geophysical Journal International</i>. 201(3). Pages 1743-1764'
