@@ -3,7 +3,7 @@ title: "Magnetic Structure of Fast‐Spread Oceanic Crust at Pito Deep"
 collection: publications
 permalink: /publication/paper2
 excerpt: 'We used an Occam inversion of near bottom magnetic anomaly and bathymetry data to determine the magnetic structure of the lower oceanic crust.'
-date: ''
+date: 2010-10-01
 venue: 'Geochemistry Geophysics Geosystems'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GC008671'
 citation: 'S. M. Maher, J. S. Gee, A. K. Doran, M. J. Cheadle, B. E. John. (2020). &quot;agnetic Structure of Fast‐Spread Oceanic Crust at Pito Deep.&quot; <i>Geochemistry Geophysics Geosystems 1</i>. 21(2).'
