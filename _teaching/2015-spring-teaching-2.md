@@ -15,7 +15,9 @@ location: "San Diego, California"
   * Assisted in transition to online teaching
   * Held office hours and homework reviews through Zoom
  
-![SIO 16](/website/images/SIO16_trip.jpg)![Joshua Tree](/website/images/JoshuaTree.jpg)
+![SIO 16](/website/images/SIO16_trip.jpg)
+
+![Joshua Tree](/website/images/JoshuaTree.jpg)
 
 Joshua Tree National Park field trip
 
