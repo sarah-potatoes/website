@@ -8,7 +8,7 @@ date: 2017-01-01
 location: "Honolulu, HI"
 ---
 
-* Teacher Assistant in Spring 2017 and 2018
+* Teacher Assistant in Spring 2012 and 2014
 * Taught introductory geology to a diverse range of undergraduate students
 * Gained experience with teaching and grading 
 * Conducted field excursions with 30+ students
