@@ -8,10 +8,10 @@ date: 2017-01-01
 location: "Honolulu, HI"
 ---
 
-Spring 2017, 2018
-======
-* Taught introductory geology to a diverse range of undergraduate students
+* Taught in Spring 2017 and 2018
+* Introduced introductory geology to a diverse range of undergraduate students
 * Gained experience with teaching and grading 
+* Conducted field excursions with 30+ students
 * Utilized an online course management system (Laulima)
   * Created homework and quiz sets
   * Generated gradebooks and student communications
