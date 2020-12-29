@@ -15,3 +15,4 @@ location: "Honolulu, HI"
 * Utilized an online course management system (Laulima)
   * Created homework and quiz sets
   * Generated gradebooks and student communications
+![Kaena Point](KaenaPoint.jpg)
