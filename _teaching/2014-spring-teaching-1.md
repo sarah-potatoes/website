@@ -16,6 +16,6 @@ location: "Honolulu, HI"
   * Created homework and quiz sets
   * Generated gradebooks and student communications
 
-![Kaena Point](/images/KaenaPoint.jpg)
+![Kaena Point](/website/images/KaenaPoint.jpg)
 
 Ka'ena Point State Park
