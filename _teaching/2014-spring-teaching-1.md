@@ -17,4 +17,5 @@ location: "Honolulu, HI"
   * Generated gradebooks and student communications
 
 ![Kaena Point](/images/KaenaPoint.jpg)
+
 Ka'ena Point State Park
