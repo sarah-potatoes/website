@@ -16,4 +16,4 @@ location: "Honolulu, HI"
   * Created homework and quiz sets
   * Generated gradebooks and student communications
 
-![Kaena Point](KaenaPoint.jpg)
+![Kaena Point](/images/KaenaPoint.jpg)
