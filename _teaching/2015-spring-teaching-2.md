@@ -11,7 +11,7 @@ location: "San Diego, California"
 * Teacher Assistant in Spring 2017, 2018, 2019, and 2020
 * Taught introductory Earth Science in the context of the National Park system
 * Generated new course content using Google Earth software
-* Became familiar with online course management in both TritonEd (Blackboard) and Canvas
+* Conducted online course management in both TritonEd (Blackboard) and Canvas
   * Assisted in transition to online teaching
   * Held office hours and homework reviews through Zoom
  
