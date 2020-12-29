@@ -3,7 +3,7 @@ title: "Dynamic Earth Lab (GG101L)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Hawaii at Manoa, SOEST"
+venue: "University of Hawaii at Manoa, SOEST Department"
 date: 2017-01-01
 location: "Honolulu, HI"
 ---
@@ -17,3 +17,4 @@ location: "Honolulu, HI"
   * Generated gradebooks and student communications
 
 ![Kaena Point](/images/KaenaPoint.jpg)
+Ka'ena Point State Park
